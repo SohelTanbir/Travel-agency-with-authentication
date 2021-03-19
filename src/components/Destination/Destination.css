@@ -22,3 +22,15 @@ button{
 ::placeholder{
     font-size:12px;
 }
+.destinationInfo{
+    background:rgb(161, 16, 190);
+    padding:15px;
+    border-radius:5px;
+    color:rgb(224, 212, 212);
+    font-weight:600;
+    text-align: center;
+    font-size:18px;
+}
+.formBox2{
+    display: none;
+}

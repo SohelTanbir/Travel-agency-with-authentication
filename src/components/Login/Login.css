@@ -1,0 +1,64 @@
+.loginBox{
+    width:430px;
+    margin:2% auto;
+    padding:30px;
+    box-shadow:0 0 30px rgb(238, 237, 237) ;
+    border-radius:10px;
+}
+.loginBox h4{
+    margin-bottom:30px;
+}
+.inputBox input{
+    width:100%;
+    border:none;
+    outline:none;
+    border-bottom:1px solid black;
+    margin-bottom: 30px;
+    padding:5px 0;
+    font-size:14px;
+}
+.inputBox input[type='checkbox']{
+    width:20%;
+}
+.additionalInfo{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:10px;
+}
+.checkbox{
+    width:50%;
+}
+.inputBox input::placeholder{
+    font-size:16px;
+}
+.inputBox button {
+    margin-bottom:5px;
+}
+/*social login css*/
+.socialLogin{
+    width:400px;
+    margin:2% auto;
+    text-align: center;
+}
+.orOption{
+    position:relative;
+}
+.orOption::before{
+    position: absolute;
+    content: "";
+    width: 130px;
+    height: 1px;
+    background: orange;
+    top: 10px;
+    right: 25px;
+}
+    
+.orOption::after{
+    position: absolute;
+    content: "";
+    width: 130px;
+    height: 1px;
+    background:orange;
+    top: 10px;
+    left: 25px; 
+}
