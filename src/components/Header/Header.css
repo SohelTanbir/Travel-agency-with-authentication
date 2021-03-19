@@ -1,0 +1,29 @@
+.header{
+    padding:15px 0;
+    border-bottom:1px solid rgb(240, 240, 240);
+}
+.menu nav{
+    text-align: right;
+}
+a{
+    color:rgb(126, 126, 126);
+    text-decoration:none;
+    font-weight:500;
+}
+.menu nav a, .brand a{
+    margin-left:30px;
+    font-size:18px;
+}
+.menu nav a:hover{
+    color:rgb(190, 190, 186);
+    text-decoration:none;
+}
+.loginBtn button{
+    background:orange;
+    border:none;
+    outline:none;
+}
+.loginBtn button:hover a{
+    color:white!important;
+    text-decoration: none;
+}

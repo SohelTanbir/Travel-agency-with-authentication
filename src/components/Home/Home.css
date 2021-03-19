@@ -1,0 +1,6 @@
+.homeBanner{
+    background: url('../../images/banner/home-banner.jpg')no-repeat;
+    background-size:cover;
+    height:100vh;
+    
+}

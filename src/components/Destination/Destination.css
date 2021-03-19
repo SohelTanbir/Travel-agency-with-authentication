@@ -1,0 +1,24 @@
+.mapImage img{
+    width:100%;
+    height:80vh;
+}
+.destinationCard{
+    background:#EFEFEF;
+    padding:15px;
+    border-radius:5px;
+    font-family:Cambria, Cochin, serif;
+}
+.formBox input,.formBox2 input, button{
+    border: none;
+    outline:none;
+    padding:8px 10px;
+    width:100%;
+    border-radius:5px;
+    margin-bottom:20px;
+}
+button{
+    background:orange;
+}
+::placeholder{
+    font-size:12px;
+}

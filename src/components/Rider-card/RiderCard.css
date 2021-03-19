@@ -1,0 +1,28 @@
+.RiderContainer{
+    width:90%;
+    margin:0 auto ;
+}
+.travel-card{
+    width:22%;
+    height:280px;
+    float:left;
+    margin-left: 2%;
+    margin-bottom: 30px;
+    background:#fff;
+    border-radius: 5px;
+    text-align: center;
+    padding:15px;
+    cursor: pointer;
+    box-shadow:0 0 30px rgb(240, 237, 237) ;
+    margin-top:12%;
+}
+.travel-card h3{
+    font-size:20px;
+    color:red;
+    padding-top:20px;
+    text-transform: uppercase;
+    font-family: cursive;
+}
+.travel-card img{
+    width:100%;
+}
