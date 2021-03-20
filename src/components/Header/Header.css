@@ -27,3 +27,6 @@ a{
     color:white!important;
     text-decoration: none;
 }
+.loginBtn{
+    min-width:60px;
+}

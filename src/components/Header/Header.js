@@ -7,12 +7,12 @@ const Header = () => {
         <div className="header">
            <div className="container">
                <div className="row">
-                   <div className="col-md-2">
+                   <div className="col-md-3 col-sm-12">
                        <div className="brand">
                            <Link to="/home">Travel Agency</Link>
                        </div>
                    </div>
-                   <div className="col-md-9 menu">
+                   <div className="col-md-8 col-sm-12 menu ">
                         <nav>
                             <Link to="/home">Home</Link>
                             <Link to="/destination">Destination</Link>
@@ -21,8 +21,8 @@ const Header = () => {
                            
                         </nav>
                    </div>
-                   <div className="col-md-1 text-right loginBtn">
-                   <button className="btn btn-dark"> <Link to="/login">Login</Link></button>
+                   <div className="col-md-1 col-sm-12 text-right loginBtn">
+                   <button className="btn btn-dark loginBtn"> <Link to="/login">Login</Link></button>
                    </div>
                </div>
            </div>
