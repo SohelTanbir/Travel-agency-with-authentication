@@ -46,7 +46,7 @@ const CreateNewUser = (e)=>{
         })
         .catch((error) => {
           var errorMessage = error.message;
-          console.log(errorMessage)
+         alert(errorMessage)
         });
     }
    e.preventDefault()
@@ -54,6 +54,7 @@ const CreateNewUser = (e)=>{
     return (
         <div>
             <div className="signInBox">
+                
                 <h4>Sign Up</h4>
                 <div className="inputBox">
                     <form onSubmit={CreateNewUser}>

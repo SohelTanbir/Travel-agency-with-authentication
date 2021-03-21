@@ -22,6 +22,7 @@ const Destination = () => {
                                 <input type="text" value="Thakurgaon"/> <br/>
                                 <span>Pick To</span> <br/>
                                 <input type="text" value="Dhaka"/> <br/>
+                                <input type="date" /> <br/>
                                 <button onClick={()=> ShowHide()}>Search</button>
                             </div>
 
