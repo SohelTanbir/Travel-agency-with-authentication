@@ -52,6 +52,7 @@ const Login = () => {
             })
             .catch((error) => {
                 var errorMessage = error.message;
+                alert(errorMessage)
             });
     }
 
@@ -72,7 +73,7 @@ const emailPasswordSignIn = (e) => {
     })
     .catch((error) => {
     var errorMessage = error.message;
-    console.log(errorMessage)
+    alert(errorMessage)
     });
     e.preventDefault()
 }
