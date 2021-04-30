@@ -1,3 +1,4 @@
+Live link: https://travel-agency-68e4d.web.app/
 //*********************************************//
         Welcome to Travel Agency App
 //********************************************//
@@ -9,8 +10,13 @@ this is a travel agency web app or website. You can travel any place in Banglade
 3. Bus
 4. Train
 #App Feature:
-1.fully dynamic and fast loaded.
-2.fully responsive.
-3.use dynamic Route and Router
-4.Google map integrated.
-5.easy to use and user friendly
+1.user can create account
+2.user can login
+3.user can login with google account
+4.user can login with facebook account
+5.google map integrated
+6.fully dynamic and fast loaded.
+7.fully responsive.
+8.use dynamic Route and Router
+9.Google map integrated.
+10.easy to use and user friendly
