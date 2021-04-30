@@ -19,4 +19,4 @@ this is a travel agency web app or website. You can travel any place in Banglade
 7.fully responsive.
 8.use dynamic Route and Router
 9.Google map integrated.
-10.easy to use and user friendly
+
